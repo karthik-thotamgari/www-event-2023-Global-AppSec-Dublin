@@ -2,26 +2,18 @@
   url: /
 - title: PROGRAM
   items:
-    #- title: Schedule
-     # url : /schedule/
-    #- title: Keynotes
-      #url : /
-   # - title: Training
-      #url : /trainings/
-    #- title: Agenda
-      #url : /schedule/
     - title: Call for Training
       url: https://owasp.submittable.com/submit/236490/2023-global-appsec-dublin-cft
     - title: Call for Papers
       url: https://owasp.submittable.com/submit/236487/2023-global-appsec-dublin-cfp
 #- title: EXHIBIT
   items:
-   # - title: Exhibitor Prospect
-    #  url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
-   # - title: Exhibitors & Sponsors
-    #  url: /sponsors
+   - title: Exhibitor Prospect (Coming Soon)
+      #url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+   #- title: Exhibitors & Sponsors
+      #url: /sponsors
    # - title: Exhibitor Kit
-    #  url: /exhibitordetails/
+     #url: /exhibitordetails/
 - title: ABOUT
   url: /about/
   items:
