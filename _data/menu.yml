@@ -10,8 +10,8 @@
       url : /trainings/
     #- title: Agenda
       #url : /schedule/
-   - title: Call for Training
-     url: https://owasp.submittable.com/submit/236490/2023-global-appsec-dublin-cft
+    - title: Call for Training
+      url: https://owasp.submittable.com/submit/236490/2023-global-appsec-dublin-cft
     - title: Call for Papers
       url: https://owasp.submittable.com/submit/236487/2023-global-appsec-dublin-cfp
 #- title: EXHIBIT
