@@ -7,7 +7,7 @@
     #- title: Keynotes
       #url : /
    # - title: Training
-      url : /trainings/
+      #url : /trainings/
     #- title: Agenda
       #url : /schedule/
     - title: Call for Training
@@ -23,7 +23,7 @@
    # - title: Exhibitor Kit
     #  url: /exhibitordetails/
 - title: ABOUT
-  #url: /about/
+  url: /about/
   items:
     #- title: Volunteer
       #url: /volunteer/
