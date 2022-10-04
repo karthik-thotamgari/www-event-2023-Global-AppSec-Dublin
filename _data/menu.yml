@@ -2,31 +2,31 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
-      url : /schedule/
+    #- title: Schedule
+     # url : /schedule/
     #- title: Keynotes
       #url : /
-    - title: Training
+   # - title: Training
       url : /trainings/
     #- title: Agenda
       #url : /schedule/
-   #- title: Training
-   #  url: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
-    #- title: Call for Papers - CLOSED
-      #url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
-- title: EXHIBIT
+   - title: Call for Training
+     url: https://owasp.submittable.com/submit/236490/2023-global-appsec-dublin-cft
+    - title: Call for Papers
+      url: https://owasp.submittable.com/submit/236487/2023-global-appsec-dublin-cfp
+#- title: EXHIBIT
   items:
-    - title: Exhibitor Prospect
-      url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
-    - title: Exhibitors & Sponsors
-      url: /sponsors
-    - title: Exhibitor Kit
-      url: /exhibitordetails/
+   # - title: Exhibitor Prospect
+    #  url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+   # - title: Exhibitors & Sponsors
+    #  url: /sponsors
+   # - title: Exhibitor Kit
+    #  url: /exhibitordetails/
 - title: ABOUT
   #url: /about/
   items:
-    - title: Volunteer
-      url: /volunteer/
+    #- title: Volunteer
+      #url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
     - title: Hotel Booking (Coming Soon)
