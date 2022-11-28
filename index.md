@@ -5,7 +5,7 @@ layout: event-x
 
 ---
 
-<!-- rebuild 1 -->
+<!-- rebuild 2 -->
 
 ***{{ site.data.event-details.venue }}***
 
