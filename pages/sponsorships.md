@@ -50,8 +50,7 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | * Vendor Passport Program | Yes | Yes | No |
 | Cost/ Corp Member Cost | &euro;22,000 / &euro;19,800| &euro;15,000 / &euro;14,250 | &euro;12,500 / &euro;12,125 |
 
-
-* Participating sponsor agrees to provide a prize valued at $50 or more
+    * Participating sponsor agrees to provide a prize valued at $50 or more
 
 ## Sponsorship Packages
 
@@ -61,4 +60,23 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | Social media recognition |
 |  2 expo only passes |
 | Recognition in pre-event communication to registered attendees |
-| Cost &euro; 5,000 |
+| Cost &euro;5,000 |
+
+
+| Networking Reception (1 Available) |
+| ---- |
+| Logo on the official event website |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Social media recognition |
+| Lead scanner |
+| Cost &euro;18,500 |
+
+| Keynote (2 Available) |
+| --- |
+| Logo on the official event website |
+| Your company pull-up banner on the side of the keynote stage for one day |
+| Social media recognition |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Cost &euro;7,500 |
