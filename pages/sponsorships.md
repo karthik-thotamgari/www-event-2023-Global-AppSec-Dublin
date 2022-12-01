@@ -26,6 +26,9 @@ thead th {
 				text-align: left;
 				font-weight: bold;
 		}
+tbody tr:last-child {
+	background: #999;
+}
 </style>
 ## Sponsorship Opportunities
 
@@ -74,8 +77,9 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | Lead scanner |
 | Cost &euro;18,500 |
 
+
 | Keynote (2 Available) |
-| --- |
+| ---- |
 | Sponsor provides at least one pull-up banner |
 | Logo on the official event website |
 | Your company pull-up banner on the side of the keynote stage for one day |
@@ -84,9 +88,10 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | 2 expo only passes |
 | Cost &euro;7,500 |
 
+
 | Track (5 Available) |
-| --- |
-| | Sponsor provides at least one pull-up banner |
+| ---- |
+| Sponsor provides at least one pull-up banner |
 | Logo on the official event website |
 | Logo outside a track room |
 | Social media recognition |
@@ -94,14 +99,16 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | 2 expo only passes |
 | Cost &euro;7,500 |
 
+
 | Bag (1 Available ) |
-| -- | 
+| ---- | 
 | Logo on the official event website |
 | Logo on the official event attendee bag |
 | Social media recognition |
 | Recognition in pre-event communication to registered attendees |
 | 2 expo only passes |
 | Cost &euro;8,000 |
+
 
 | Lunch (2 Available) |
 | --- |
@@ -113,6 +120,7 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 | Recognition in pre-event communication to registered attendees |
 | 2 expo only passes |
 | Cost &euro;6,500 |
+
 
 | Coffee Breaks (2 Available) |
 | --- |
