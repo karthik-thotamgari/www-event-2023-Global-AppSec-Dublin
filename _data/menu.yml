@@ -8,8 +8,8 @@
       url: /schedule/
 - title: EXHIBIT
   items:
-    - title: Exhibitor Prospect (Coming Soon)
-      #url: /assets/files/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+    - title: Exhibitor Prospect 
+      url: https://dublin.globalappsec.org/sponsorship/
    #- title: Exhibitors & Sponsors
       #url: /sponsors
    # - title: Exhibitor Kit
