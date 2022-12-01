@@ -56,6 +56,7 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 
 | Lanyard (1 Available) |
 | ---- |
+| Sponsor provides lanyards for all conference attendees. Must meet OWASP specifications and approval |
 | Logo on the official event website |
 | Social media recognition |
 |  2 expo only passes |
@@ -65,6 +66,7 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 
 | Networking Reception (1 Available) |
 | ---- |
+| Sponsor provides pull-up banners for branding during the reception |
 | Logo on the official event website |
 | Recognition in pre-event communication to registered attendees |
 | 2 expo only passes |
@@ -74,9 +76,59 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 
 | Keynote (2 Available) |
 | --- |
+| Sponsor provides at least one pull-up banner |
 | Logo on the official event website |
 | Your company pull-up banner on the side of the keynote stage for one day |
 | Social media recognition |
 | Recognition in pre-event communication to registered attendees |
 | 2 expo only passes |
 | Cost &euro;7,500 |
+
+| Track (5 Available) |
+| --- |
+| Logo on the official event website |
+| Logo outside a track room |
+| Social media recognition |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Cost &euro; |
+
+| Bag (1 Available ) |
+| -- | 
+| Logo on the official event website |
+| Logo on the official event attendee bag |
+| Social media recognition |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Cost &euro;8,000 |
+
+| Lunch (2 Available) |
+| --- |
+| Sponsor provides pull-up banners for display during one lunch |
+| Logo on the official event website |
+| Banner displayed during one lunch |
+| Social media recognition |
+| Lead scanner |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Cost &euro;6,500 |
+
+| Coffee Breaks (2 Available) |
+| --- |
+| Sponsor provides pull-up banners for display during both coffee breaks for one day |
+| Logo on the official event website | 
+| Banner displayed during both coffee breaks for one day |
+| Social media recognition |
+| Lead scanner |
+| Recognition in pre-event communication to registered attendees |
+| 2 expo only passes |
+| Cost &euro;8,000 |
+
+
+| Event Supporter (Unlimited) |
+| --- |
+| Logo on the official event website |
+| Social media recognition |
+| Recognition in pre-event communication to registered attendees |
+| Cost &euro;2,500 |
+
