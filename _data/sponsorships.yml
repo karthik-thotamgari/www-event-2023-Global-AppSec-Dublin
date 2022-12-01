@@ -1,0 +1,138 @@
+- type: Expo
+  level: Diamond
+  description:
+  number: 2
+  rate: €22,000.00
+  member_rate: €19,800.00
+  benefits:
+    - item: 6mx4m prime expo space includes table and 2 chairs
+    - item: 5 full conference passes
+    - item: 3 staff only expo passes
+    - item: Logo on the official event website
+    - item: Lead scanner
+    - item: Additional branding where available
+    - item: Social media recognition
+    - item: 50 drink tickets
+    - item: Inclusion in Vendor Passport program (participating sponsor agrees to provide a prize valued at $50 or more)
+- type: Expo
+  level: Gold
+  description:
+  number: 8
+  rate: €15,000.00
+  member_rate: €14,250.00
+  benefits:
+    - item: 3mx2m desirable expo space includes table and 3 chairs
+    - item: 4 full conference passes
+    - item: 2 staff only expo passes
+    - item: Logo on the official event website
+    - item: Lead scanner
+    - item: Additonal branding where available
+    - item: Social media recognition
+    - item: Inclusion in Vendor Passport program (particpating sponsor agrees to provide a prize valued at $50 or more)
+- type: Expo
+  level: Silver
+  description:
+  number: 8
+  rate: €12,500.00
+  member_rate: €12,125.00
+  benefits:
+    - item: 3mx2m expo space includes table and 2 chairs
+    - item: 2 staff expo only passes
+    - item: Logo on the official event website
+    - item: Social media recognition
+    - item: Lead scanner available as an add-on
+- type: Sponsorship
+  level: Lanyard
+  description: Sponsor provides lanyards for all conference attendees. Must meet OWASP specifications and approval.
+  number: 1
+  rate: €5,000.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Social media recognition
+    - item: 2 expo only passes
+    - item: Recognition in pre-event communication to registered attendees
+- type: Sponsorship
+  level: Networking Reception
+  description: Sponsor provides pull-up banners for branding during the reception
+  number: 1
+  rate: €18,500.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+    - item: Social media recognition
+    - item: Lead scanner
+- type: Sponsorship
+  level: Keynote
+  description: Sponsor provides at least one pull-up banner
+  number: 2
+  rate: €7,500.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Your company pull-up banner on the side of the keynote stage for one day
+    - item: Social media recognition
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+- type: Sponsorship
+  level: Track
+  description:
+  number: 5
+  rate: €7,500.00
+  member_rate: -1
+  benefits: 
+    - item: Logo on the official event website
+    - item: Logo outside a track room
+    - item: Social media recognition
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+- type: Sponsorship
+  level: Bag
+  description:
+  number: 1
+  rate: €8,000.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Logo on the official event attendee bag
+    - item: Social media recognition
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+- type: Sponsorship
+  level: Lunch
+  description: Sponsor provides pull-up banners for display during one lunch
+  number: 2
+  rate: €6,500.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Banner displayed during one lunch
+    - item: Social media recognition
+    - item: Lead scanner
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+- type: Sponsorship
+  level: Coffee Breaks
+  description: Sponsor provides pull-up banners for display during both coffee breaks for one day
+  number: 2
+  rate: €8,000.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Banner displayed during both coffee breaks for one day
+    - item: Social media recognition
+    - item: Lead scanner
+    - item: Recognition in pre-event communication to registered attendees
+    - item: 2 expo only passes
+- type: Sponsorship
+  level: Event Supporter
+  description:
+  number: -1
+  rate: €2,500.00
+  member_rate: -1
+  benefits:
+    - item: Logo on the official event website
+    - item: Social media recognition
+    - item: Recognition in pre-event communication to registered attendees
