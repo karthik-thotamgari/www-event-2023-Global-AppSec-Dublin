@@ -86,12 +86,13 @@ If you are interested in becoming a Corporate or Event Sponsor, please contact
 
 | Track (5 Available) |
 | --- |
+| | Sponsor provides at least one pull-up banner |
 | Logo on the official event website |
 | Logo outside a track room |
 | Social media recognition |
 | Recognition in pre-event communication to registered attendees |
 | 2 expo only passes |
-| Cost &euro; |
+| Cost &euro;7,500 |
 
 | Bag (1 Available ) |
 | -- | 
