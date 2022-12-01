@@ -7,13 +7,7 @@ permalink: /sponsorship/
 <style type="text/css">
 table {
 		width: 100%;
-		margin-bottom: 1em;		
-		
-		tbody {
-			tr:nth-child(2n) {
-				background: #eee;
-			}
-		}
+		margin-bottom: 1em;				
 	}
 th, td {
 			padding: 0.5em;		
@@ -27,7 +21,7 @@ thead th {
 				font-weight: bold;
 		}
 tbody tr:last-child {
-	background: #999;
+	background: #999 !important;
 }
 </style>
 ## Sponsorship Opportunities
